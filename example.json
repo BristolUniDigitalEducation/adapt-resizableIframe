@@ -1,0 +1,13 @@
+{
+    "_id":"c-10",
+    "_parentId":"b-05",
+    "_type":"component",
+    "_component":"resizableIframe",
+    "_classes":"",
+    "_layout":"full",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_source": "/test.html"
+}

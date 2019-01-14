@@ -1,0 +1,18 @@
+{
+  "name": "adapt-resizableIframe",
+  "version": "1.0.3.7",
+  "homepage": "https://github.com/BristolUniDigitalEducation/adapt-resizableIframe",
+  "authors": [
+    "Kevin Corry <kevinc@learningpool.com>",
+    "Steve Cole <steve@ultrabubble.com>"
+  ],
+  "description": "Allows embedded content inside an iframe tag that will automatically resize the height of both same and cross domain iFrames to fit their contained content when iFrame resizer script is included in the content page. ",
+  "main": "/js/adapt-resizableIframe.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "displayName": "Resizable Iframe",
+  "component": "resizableIframe",
+  "license": "GPLv3"
+}
